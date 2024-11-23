@@ -1,0 +1,22 @@
+{
+  "name": "functionconverterjs",
+  "version": "1.0.0",
+  "description": "An npm package to convert function",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayuriP-05/functionconverterjs.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mayuri patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayuriP-05/functionconverterjs/issues"
+  },
+  "homepage": "https://github.com/MayuriP-05/functionconverterjs#readme"
+}
